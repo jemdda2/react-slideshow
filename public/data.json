@@ -1,0 +1,62 @@
+[
+	{
+		"src": "/images/img1.jpg",
+		"title": "Product 01",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati non illum ad."
+	},
+	{
+		"src": "/images/img2.jpg",
+		"title": "Product 02",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati non illum ad."
+	},
+	{
+		"src": "/images/img3.jpg",
+		"title": "Product 03",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati non illum ad."
+	},
+	{
+		"src": "/images/img4.jpg",
+		"title": "Product 04",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati non illum ad."
+	},
+	{
+		"src": "/images/img5.jpg",
+		"title": "Product 05",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati non illum ad."
+	},
+	{
+		"src": "/images/img6.jpg",
+		"title": "Product 06",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati non illum ad."
+	},
+	{
+		"src": "/images/img7.jpg",
+		"title": "Product 07",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati non illum ad."
+	},
+	{
+		"src": "/images/img8.jpg",
+		"title": "Product 08",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati non illum ad."
+	},
+	{
+		"src": "/images/img9.jpg",
+		"title": "Product 09",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati non illum ad."
+	},
+	{
+		"src": "/images/img10.jpg",
+		"title": "Product 10",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati non illum ad."
+	},
+	{
+		"src": "/images/img11.jpg",
+		"title": "Product 11",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati non illum ad."
+	},
+	{
+		"src": "/images/img12.jpg",
+		"title": "Product 12",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati non illum ad."
+	}
+]
